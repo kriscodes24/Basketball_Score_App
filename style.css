@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+h3 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin: 10px auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1B244A;
+    width: 575px;
+    height: 385px;
+    margin: 100px auto;
+}
+
+#homecount {
+    color: #F94F6D;
+    font-size: 90px;
+    background-color: black;
+    width: 140px;
+    height: 100px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin: 30px auto;
+    text-align: center;
+}
+
+#guestcount {
+    color: #F94F6D;
+    font-size: 90px;
+    background-color: black;
+    width: 140px;
+    height: 100px;
+    font-family: 'Cursed Timer ULiL', sans-serif;  
+    margin: 30px auto; 
+    text-align: center;                         
+}
+
+button {
+    background-color: #1B244A;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;  
+    width: 45px;
+    height: 45px; 
+    font-size: 18px;                 
+}
